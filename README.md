@@ -3,3 +3,11 @@ Code has been deployed : -
 
 About Projects:-
 It’s a blog website that shows the blogs according to the some categories and according to some trending tags.
+
+Screenshots:-
+
+
+
+
+
+
